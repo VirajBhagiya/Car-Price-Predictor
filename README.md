@@ -1,4 +1,4 @@
-# Car-Price-Predictor
+# Linear-Regression
 
 Model: Linear Regression
 
